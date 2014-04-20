@@ -1,8 +1,8 @@
-========================
-django-twoscoops-project
-========================
+==========
+rocketbase
+==========
 
-A project template for Django 1.6 (with a tag for Django 1.5).
+A project template for Django 1.6 (Forked from twoscoops)
 
 To use this project follow these steps:
 
